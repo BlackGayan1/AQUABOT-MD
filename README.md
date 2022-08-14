@@ -22,7 +22,7 @@ This project is still being tested
 
 ---------------------------------   
 
- ###  Developer :- Sanuwa-official 
+ ###  Developer :- Gayan -official 
 
 ## Thanks To
 - [@adiwajshing](https://github.com/adiwajshing/) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
