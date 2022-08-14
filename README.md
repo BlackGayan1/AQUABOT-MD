@@ -18,7 +18,7 @@ This project is still being tested
 [![Run on Repl.it](https://replit.com/@BlackGayan/Gayan-Whatsapp-Bot-or-1?v=1)
 
 ## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/BlackGayan1)
+[![Deploy](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsanuwaofficial%2FAQUABOT-MD&template=https%3A%2F%2Fgithub.com%2Fsanuwaofficial%2FAQUABOT-MD)
 
 ---------------------------------   
 
