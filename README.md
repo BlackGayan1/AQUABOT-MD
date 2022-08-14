@@ -15,10 +15,10 @@ This project is still being tested
     
   ### ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න
 
-[![Run on Repl.it](https://replit.com/@BlackGayan/Gayan-Whatsapp-Bot-or-1?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@MagmaGaming/AQUABOT-MDV2?v=1)
 
 ## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
-[![Deploy](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsanuwaofficial%2FAQUABOT-MD&template=https%3A%2F%2Fgithub.com%2Fsanuwaofficial%2FAQUABOT-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sanuwaofficial/AQUABOT-MD)
 
 ---------------------------------   
 
